@@ -1,14 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya Sharma
 =====================================================================================================================================
 
-Student and a learner in python Data Science
---------------------------------------------
+Data Science | Machine Learning | Python Developer
+--------------------------------------------------
 
-As a passionate learner in the field of data science with a solid foundation in C language, I thrive at the intersection of structured programming and advanced analytics. My journey in data science began with a fascination for uncovering insights from data and has evolved into a quest for mastering statistical modeling, machine learning algorithms, and data visualization techniques .My proficiency in C language enhances my ability to implement efficient algorithms and optimize code, which are crucial skills in data preprocessing, algorithm design, and software development for data-driven applications. I am adept at leveraging Python and SQL alongside C for comprehensive data analysis and visualization tasks. This diverse skill set allows me to tackle complex problems in data science projects, from data collection and cleaning to model building and deployment. I am committed to continuous learning, staying updated with the latest advancements in data science, and applying them to real-world challenges.
+I'm a Computer Science graduate passionate about transforming data into meaningful insights and building intelligent applications with Machine Learning. I enjoy solving real-world problems through data-driven solutions and continuously expanding my knowledge of AI, analytics, and software development.
+
+**Languages**: Python, SQL, HTML, CSS
+**Data Science & ML**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Plotly
+**Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, Gradient Boosting, XGBoost, K-Means Clustering
+**Tools & Frameworks**: Streamlit, Flask, SQLAlchemy, Joblib, Git & GitHub
+
+-----------🚀 Featured Projects------------
+**Ember AI** - An end-to-end Machine Learning pipeline for data preprocessing, model training, evaluation, and deployment.
+**Text Wizard** - An NLP application for text summarization and sentiment analysis using modern NLP libraries.
+**GreenGuard Prediction System** - A Machine Learning solution for predicting photovoltaic solar power generation using weather and environmental data.
+
+-----------------🎯 Interests----------
+Machine Learning • Data Science • Artificial Intelligence • Natural Language Processing • Predictive Analytics • Data Visualization
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhavyasquadleader@gmail.com](mailto:bhavyasquadleader@gmail.com)
-* 🧠  I'm learning Python for data science
 * 🤝  I'm open to collaborating on interesting projects..
 <!---
 The-Bhavya/The-Bhavya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
